@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Usman Awan!;Welcome+to+my+GitHub!;Passionate+Web+Developer)  
-![Visitor Count](https://komarev.com/ghpvc/?username=Usman Awan&color=brightgreen)  
-![Usman Awan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usman Awan&show_icons=true&theme=dracula)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman Awan&layout=compact&theme=vue)  
 
 👋 Hi, I’m @Usman Awan
 👀 I’m passionate about Web Development and love exploring emerging technologies 🌱 Currently diving deeper into the MERN stack while enhancing my expertise in Machine Learning and Data Science  
